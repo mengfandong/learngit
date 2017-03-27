@@ -5,3 +5,4 @@ K2中文版
 1、git add
 2. git status
 3. git checkout --
+4. git commit -m
