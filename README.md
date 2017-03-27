@@ -7,3 +7,4 @@ K2中文版
 3. git checkout --
 4. git commit -m
 this is change at github.com
+Create a new branch for this commit and start a pull request.
