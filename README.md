@@ -8,3 +8,5 @@ K2中文版
 4. git commit -m
 this is change at github.com
 git fetch
+Create a new branch for this commit and start a pull request.
+
